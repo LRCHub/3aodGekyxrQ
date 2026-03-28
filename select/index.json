@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "空の箱 (井芹仁菜、河原木桃香)",
+  "base_artist": "TOGENASHI TOGEARI",
+  "createdAt": "2026-03-28T07:48:53.323290Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空の箱 (井芹仁菜、河原木桃香)",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": true,
+      "path": "select/01_空の箱_(井芹仁菜、河原木桃香)_トゲナシトゲアリ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "空の箱 - 井芹仁菜、河原木桃香",
+      "artist": "TOGENASHI TOGEARI",
+      "has_synced": false,
+      "path": "select/02_空の箱_-_井芹仁菜、河原木桃香_TOGENASHI_TOGEARI.txt"
+    }
+  ]
+}
